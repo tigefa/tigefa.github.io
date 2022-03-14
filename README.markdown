@@ -4,5 +4,5 @@ tigefa home page
 
 - [Jekyll](http://jekyllrb.com)
 - [Bootstrap](http://getbootstrap.com)
-- [FlipClock.js](http://flipclockjs.com)
+- [flipCountDown](https://github.com/xdan/flipcountdown)
 - [Blogger Sans Fonts](https://www.fontfabric.com/fonts/blogger/)
