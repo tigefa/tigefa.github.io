@@ -1,10 +1,10 @@
 # Site settings
 title: Tigefa
-email: tigefarb@gmail.com
+email: tigefabot@gmail.com
 description: "All out of the box application built with top of Ruby on Rails"
 baseurl: ""
 url: "https://tigefa.win"
-twitter_username: tigefarb
+twitter_username: sugeng_tigefa
 github_username:  tigefa
 
 # Build settings
